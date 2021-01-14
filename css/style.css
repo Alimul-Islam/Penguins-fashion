@@ -1,0 +1,57 @@
+
+body{
+    margin: 0px;
+    font-family: 'Varela Round', sans-serif;}
+
+h1{
+    font-size: 50px;
+}
+ h2{
+
+    font-size: 50px;
+ }
+ p{
+     color:black;
+ }
+
+.name{
+    color: goldenrod;
+}
+.half-width{
+    width: 40%;
+    float: left;
+
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;     
+}
+.pan-card{
+    border: 0;
+}
+.pan-card-footer{
+    background-color: white;
+    border: 0;
+}
+.last-items{
+    width: 80px;
+    box-sizing: border-box;
+}
+#cart{
+    width: 25px;
+}
+.display-img{
+        height: 400px;
+        width: 330px;
+  
+}
+.below{
+    border-radius: 10px;
+}
+h5{
+    color: gold;
+}
+.social{
+    size: 10px;
+}
